@@ -11,16 +11,17 @@ role: Lecturer
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: VIVES University of Applied Sciences
-  url: https://www.stanford.edu/
+  url: https://www.vives.be
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Vehicle Networks
+- Mobile Automation
+- Vehicle Hydraulics
+- Autonomous Vehicles
 
 # Education to show in About widget
 education:
@@ -64,7 +65,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jeremy.lebon@vives.be"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
