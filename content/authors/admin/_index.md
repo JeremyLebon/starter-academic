@@ -22,19 +22,20 @@ interests:
 - Mobile Automation
 - Vehicle Hydraulics
 - Autonomous Vehicles
+- Artificial Intelligence
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: Postgraduate Applied AI
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+    year: 2020
+  - course: MEng in Automation
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2010
+  - course: BSc in Electromechanics
+    institution: VIVES University of Applied Sciences
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,7 +56,7 @@ social:
   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/jeremy-lebon-90045219/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
