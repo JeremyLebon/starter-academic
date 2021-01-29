@@ -9,7 +9,7 @@ cms_exclude: true
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header: Dit is een test
+header: #Dit is een test
   caption: "fhsdfkdskjfhqsdfqksljhlkjq"
   image: ""
 ---
